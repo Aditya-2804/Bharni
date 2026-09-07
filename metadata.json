@@ -1,0 +1,6 @@
+{
+  "name": "Bharni Saree Boutique",
+  "description": "An elegant single-page website for Bharni saree store featuring artisanal weaves, curated collections, address, visiting hours, and contact details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
