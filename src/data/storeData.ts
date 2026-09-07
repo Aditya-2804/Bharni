@@ -11,7 +11,7 @@ import kayaanImg from '../assets/images/kayaan.png';
 import omkaraImg from '../assets/images/Omkara.png';
 import sindoorImg from '../assets/images/Sindoor.png';
 import starImg from '../assets/images/Star.png';
-import HideSeekImg from '../assets/images/Hide And Seek.png';
+import HideSeekImg from '../assets/images/HideAndSeek.png';
 import classicImg from '../assets/images/classicSaree.png';
 import bandhejImg from '../assets/images/bandhejSaree.png';
 import rainbowImg from '../assets/images/rainbowSaree.png';
